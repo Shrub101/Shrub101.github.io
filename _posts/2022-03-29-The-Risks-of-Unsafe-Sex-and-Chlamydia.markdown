@@ -175,21 +175,22 @@ In women, untreated chlamydia can lead to PID, a condition that could cause perm
 In men, chlamydia could cause multiple complications if left untreated, including epididymitis, prostatitis, or male chlamydial urethritis. 
 
 ## Get Support
-* [**Royal Perth Hospital**](rph.health.wa.gov.au/Our- services/Sexual-Health)
+* [**Royal Perth Hospital**](https://rph.health.wa.gov.au/Our- services/Sexual-Health)
   * Provides screening services and help with prevention
 * **Sexual Health Helpline**
   * Provides confidential information and referrals
   * Call 9227 6178
+
 ## References
-* [Brown MA, et al. (2016). Natural products for the treatment of chlamydia infections.](ncbi.nlm.nih.gov/pmc/articles/PMC5192522/)
+* [Brown MA, et al. (2016). Natural products for the treatment of chlamydia infections.](https://ncbi.nlm.nih.gov/pmc/articles/PMC5192522/)
 
-* [Chlamydia. (n.d.)](cdc.gov/std/chlamydia/the-facts/chlamydia_bro_508.pdf)
+* [Chlamydia. (n.d.)](https://cdc.gov/std/chlamydia/the-facts/chlamydia_bro_508.pdf)
 
-* [ Chlamydia. (2021)](nhs.uk/conditions/chlamydia/)
+* [ Chlamydia. (2021)](https://nhs.uk/conditions/chlamydia/)
 
-* [ Chlamydia — CDC fact sheet (detailed). (2021). ](cdc.gov/std/chlamydia/stdfact-chlamydia-detailed.htm )
+* [ Chlamydia — CDC fact sheet (detailed). (2021). ](https://cdc.gov/std/chlamydia/stdfact-chlamydia-detailed.htm )
 
-* [ Echinacea. (2020). ](nccih.nih.gov/health/echinacea/ataglance.htm )
+* [ Echinacea. (2020). ](https://nccih.nih.gov/health/echinacea/ataglance.htm )
 
 * [Gaspari V, et al. (2019). Pharyngeal chlamydia and gonorrhea: A hidden problem. ](pubmed.ncbi.nlm.nih.gov/31046619/ )
 
