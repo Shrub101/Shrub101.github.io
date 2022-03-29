@@ -10,6 +10,10 @@ categories: health
   }
 </style>
 
+<style type="text/css"> .text-justify { text-align: justify; } </style>
+![Chlamydia Image]({{ site.url }}/images/title.png)
+
+
 ## What is Chlamydia? 
 
 Chlamydia is a common sexually transmitted infection (STI) caused by bacteria. People who have chlamydia often don’t have outward symptoms in the early stages.  
@@ -113,6 +117,10 @@ Statistically, a person is more likely to get an STI if they’ve had sex with m
  
 
 ## How can I reduce my risk of getting chlamydia? 
+<style type="text/css"> .text-justify { text-align: justify; } </style>
+![Chlamydia Image]({{ site.url }}/images/prot1.png)
+<style type="text/css"> .text-justify { text-align: justify; } </style>
+![Chlamydia Image]({{ site.url }}/images/prot2.png)
 Abstaining from sexual activity is the only guaranteed way to prevent chlamydia. 
 
 However, if you are sexually active, there are several simple steps you can take to decrease your risk of contracting chlamydia, as well as many other STIs. 
@@ -126,6 +134,8 @@ Here are a few ways to reduce your risk:
  
 
 ## How can you treat Chlamydia? 
+<style type="text/css"> .text-justify { text-align: justify; } </style>
+![Chlamydia Image]({{ site.url }}/images/treatment.png)
 Chlamydia is easy to treat and can be cured. Since it’s bacterial in nature, antibiotics treat it. 
 
 Azithromycin is an antibiotic usually prescribed in a single, large dose. Doxycycline is an antibiotic that must be taken twice per day for about 1 week. 
@@ -175,6 +185,8 @@ In women, untreated chlamydia can lead to PID, a condition that could cause perm
 In men, chlamydia could cause multiple complications if left untreated, including epididymitis, prostatitis, or male chlamydial urethritis. 
 
 ## Get Support
+<style type="text/css"> .text-justify { text-align: justify; } </style>
+![Chlamydia Image]({{ site.url }}/images/support.png)
 * [**Royal Perth Hospital**](https://rph.health.wa.gov.au/Our- services/Sexual-Health)
   * Provides screening services and help with prevention
 * **Sexual Health Helpline**
