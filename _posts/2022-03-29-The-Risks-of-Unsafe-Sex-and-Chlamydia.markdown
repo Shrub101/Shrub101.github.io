@@ -187,40 +187,39 @@ In men, chlamydia could cause multiple complications if left untreated, includin
 ## Get Support
 <style type="text/css"> .text-justify { text-align: justify; } </style>
 ![Chlamydia Image]({{ site.url }}/images/support.png)
-* [**Royal Perth Hospital**](https://rph.health.wa.gov.au/Our- services/Sexual-Health)
+* [**Royal Perth Hospital**](https://www.rph.health.wa.gov.au/Our- services/Sexual-Health)
   * Provides screening services and help with prevention
 * **Sexual Health Helpline**
   * Provides confidential information and referrals
   * Call 9227 6178
 
 ## References
-* [Brown MA, et al. (2016). Natural products for the treatment of chlamydia infections.](https://ncbi.nlm.nih.gov/pmc/articles/PMC5192522/)
+* [Brown MA, et al. (2016). Natural products for the treatment of chlamydia infections.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5192522/)
 
-* [Chlamydia. (n.d.)](https://cdc.gov/std/chlamydia/the-facts/chlamydia_bro_508.pdf)
+* [Chlamydia. (n.d.)](https://www.cdc.gov/std/chlamydia/the-facts/chlamydia_bro_508.pdf)
 
-* [ Chlamydia. (2021)](https://nhs.uk/conditions/chlamydia/)
+* [ Chlamydia. (2021)](https://www.nhs.uk/conditions/chlamydia/)
 
-* [ Chlamydia — CDC fact sheet (detailed). (2021). ](https://cdc.gov/std/chlamydia/stdfact-chlamydia-detailed.htm )
+* [ Chlamydia — CDC fact sheet (detailed). (2021). ](https://www.cdc.gov/std/chlamydia/stdfact-chlamydia-detailed.htm )
 
-* [ Echinacea. (2020). ](https://nccih.nih.gov/health/echinacea/ataglance.htm )
+* [ Echinacea. (2020). ](https://www.nccih.nih.gov/health/echinacea/ataglance.htm )
 
-* [Gaspari V, et al. (2019). Pharyngeal chlamydia and gonorrhea: A hidden problem. ](pubmed.ncbi.nlm.nih.gov/31046619/ )
+* [Gaspari V, et al. (2019). Pharyngeal chlamydia and gonorrhea: A hidden problem. ](https://www.pubmed.ncbi.nlm.nih.gov/31046619/ )
 
-* [Keegan MB, et al. (2014). Chlamydia trachomatis infection: Screening and management. ](ncbi.nlm.nih.gov/pmc/articles/PMC4279217/ )
+* [Keegan MB, et al. (2014). Chlamydia trachomatis infection: Screening and management. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4279217/ )
 
-* [Mogilnicka I, et al. (2020). Microbiota and malodor—etiology and management. ](ncbi.nlm.nih.gov/pmc/articles/PMC7215946/ )
+* [Mogilnicka I, et al. (2020). Microbiota and malodor—etiology and management. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7215946/ )
 
-* [ Mohseni M, et al. (2021). Chlamydia. ](ncbi.nlm.nih.gov/books/NBK537286/ )
+* [ Mohseni M, et al. (2021). Chlamydia. ](https://www.ncbi.nlm.nih.gov/books/NBK537286/ )
 
-* [O'Connell CM, et al. (2016). Chlamydia trachomatis ge[nital](infections.)
-](* ncbi.nlm.nih.gov/pmc/articles/PMC5354567/ )
+* [O'Connell CM, et al. (2016). Chlamydia trachomatis genital](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5354567/ )
 
-* [Pelvic inflammatory disease (PID) — CDC fact sheet. (2021). ](cdc.gov/std/pid/stdfact-pid-detailed.htm )
+* [Pelvic inflammatory disease (PID) — CDC fact sheet. (2021). ](https://www.cdc.gov/std/pid/stdfact-pid-detailed.htm )
 
-* [Potroz MG, et al. (2015). Natural products for the treatment of trachoma and Chlamydia trachomatis. ](ncbi.nlm.nih.gov/pmc/articles/PMC6272789/ )
+* [Potroz MG, et al. (2015). Natural products for the treatment of trachoma and Chlamydia trachomatis. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6272789/ )
 
-* [Satpathy G, et al. (2017). Chlamydial eye infections: Current perspectives. ](ncbi.nlm.nih.gov/pmc/articles/PMC5381307/ )
+* [Satpathy G, et al. (2017). Chlamydial eye infections: Current perspectives. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5381307/ )
 
-* [ STDs during pregnancy — CDC fact sheet. (2016). ](cdc.gov/std/pregnancy/stdfact-pregnancy.htm )
+* [ STDs during pregnancy — CDC fact sheet. (2016). ](https://www.cdc.gov/std/pregnancy/stdfact-pregnancy.htm )
 
-* [Which STD tests should I get? (2021).](cdc.gov/std/prevention/screeningreccs.htm)
+* [Which STD tests should I get? (2021).](https://www.cdc.gov/std/prevention/screeningreccs.htm)
